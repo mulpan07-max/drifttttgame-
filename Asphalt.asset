@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3010bc08b4383488ad63af7647a5a4, type: 3}
+  m_Name: Asphalt
+  m_EditorClassIdentifier: 
+  surfaceTag: Asphalt
+  frictionMultiplier: 1
+  maxSpeedMultiplier: 1
+  cameraShakeAmount: 0
+  cameraShakeFreq: 12
+  dustParticles: {fileID: 0}
+  rollingSound: {fileID: 0}
+  rollingVolume: 0.5
